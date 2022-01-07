@@ -4,7 +4,7 @@ This is java swing application for creating database of employees. The database 
 
 #Built With:
 
-Java
-swing GUI widget toolkit
-MySql database
+Java,
+swing GUI widget toolkit,
+MySql database,
 JDBC driver
