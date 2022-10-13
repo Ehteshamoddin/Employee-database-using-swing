@@ -45,7 +45,10 @@ public void connect() {
 - Generate new 'Pull request'.
 - Briefly specify the changes you have made and submit the request.
 
-## Author & Creator of Repository [Ehteshamoddin Shafioddin Siddiqui](https://github.com/Ehteshamoddin)
+## Credits
+- Author & Creator of Repository [Ehteshamoddin Shafioddin Siddiqui](https://github.com/Ehteshamoddin)
+- Active Contributer [Ravindra Punekar](https://github.com/Ravindra-Punekar)
+
 ### Love or Appreciate My Efforts ?
 ##### Please make sure to star the repo and share to as many people as you can.
 #### Having Problem? 
